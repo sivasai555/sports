@@ -1,0 +1,80 @@
+<!DOCTYPE>
+<html>
+<title>FOOTBALL</title>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+ 
+  color: #777;
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  position: relative;
+  opacity: 1.0;
+  background-position: center;
+  background-repeat: n0-repeat;
+  background-size: cover;
+
+}
+.bgimg-1 {
+  background-image: url("football3.jpg");
+  height: 100%;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 0%;
+  width: 100%;
+  text-align: none;
+  color: #000;
+}
+
+.caption span.border {
+ 
+  color:white;
+  padding: 1px;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
+h1{
+    letter-spacing:1px;
+	text-transform: uppercase;
+    color:red;
+}
+</style>
+</head
+<body>
+<div class="bgimg-1">
+  <div class="caption">
+  <center><h1 color ="black">FOOTBALL</h1></center>
+    <span class="border">Netball is a ball sport played by two teams of seven players. Netball is most popular in many Commonwealth nations, 
+	specifically in schools, and is predominantly played by women. According to the INF, netball is played by more than 
+	20 million people in more than 80 countries.[12][13] Major domestic leagues in the sport include the Netball Superleague 
+	in Great Britain, Suncorp Super Netball in Australia and the ANZ Premiership in New Zealand. Four major competitions take 
+	place internationally: the quadrennial World Netball Championships, the Commonwealth Games, and the yearly Quad Series and 
+	Fast5 Series</span><br>	
+    <span class="border"><h1>Netball Rules</h1>The origination of netball began in England in the 1890s when the 
+	game was derived from an early version of basketball. A set of standard rules for international play was devised
+	by the 1960s and the International Federation of Netball Associations now has over 60 teams playing in five regions around the world.</span>
+	<span class="border"><h1>Object of the Game</h1>The object of netball is to score more points than your opponent.
+A netball game lasts for a regulation 60 minutes. This is split into four quarters, with each quarter lasting 15 minutes. 
+Between the first and second quarter, and the third and fourth quarter, there is an interval of three minutes. Between the second and third quarter -half-time - there is an interval of five minutes.
+A referee or umpire is allowed to call time and when they do, the time keeper will stop the timer, which begins again when play starts again. There is a maximum of two minutes allowed for an injury.</span>
+	<span class ="border">a<a href="https://www.rulesofsport.com/sports/netball.html">view more</a></span>
+  </div>
+</div>
+
+
+</body>
+</html>
